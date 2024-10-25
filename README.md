@@ -1,1 +1,1 @@
-# my-site
+# Simple Click Site
